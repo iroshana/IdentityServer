@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiOne", "ApiOne\ApiOne.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTwo", "ApiTwo\ApiTwo.csproj", "{5A94E834-5708-4641-B673-B378E0554E5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcClient", "MvcClient\MvcClient.csproj", "{33A2408A-E1FA-4D61-A7AC-4AD866DD9AC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5A94E834-5708-4641-B673-B378E0554E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A94E834-5708-4641-B673-B378E0554E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A94E834-5708-4641-B673-B378E0554E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A2408A-E1FA-4D61-A7AC-4AD866DD9AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A2408A-E1FA-4D61-A7AC-4AD866DD9AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A2408A-E1FA-4D61-A7AC-4AD866DD9AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A2408A-E1FA-4D61-A7AC-4AD866DD9AC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
